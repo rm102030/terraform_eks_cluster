@@ -1,6 +1,6 @@
 # Local .terraform directories
 **/.terraform/*
-
+.terraform/
 # Local .terraform providers
 
 **/.terraform/providers/*
