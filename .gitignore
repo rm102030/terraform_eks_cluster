@@ -3,7 +3,7 @@
 
 # Local .terraform providers
 
-.terraform/providers/*
+**/.terraform/providers/*
 
 # .tfstate files
 *.tfstate
