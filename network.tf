@@ -13,6 +13,7 @@ module "vpc" {
   tags = {
     terraform   = "true"
     environment = "dev"
+    owner       = "ricardo.martinez@pragma.com.co"
   }
 
 }
